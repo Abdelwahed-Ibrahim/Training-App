@@ -1,0 +1,1 @@
+-keep class com.example.graduation_project_final.BuildConfig { *; }

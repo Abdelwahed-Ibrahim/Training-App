@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "189807241577",
+    "project_id": "summertraining-1be92",
+    "storage_bucket": "summertraining-1be92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189807241577:android:a6bf4efc699353af80b5f8",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189807241577-ilpda706b3t9dfmdgo8k4h8ae1260grb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.graduation_project_final",
+            "certificate_hash": "ff346ed086029de274e7000dbe70ebc4d643022c"
+          }
+        },
+        {
+          "client_id": "189807241577-u3hp17ets04vc7do3be5utvcu23hsbh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgEP7BSKUy-DcK5cNwE5yXPAUjV2NtwYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189807241577-u3hp17ets04vc7do3be5utvcu23hsbh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
